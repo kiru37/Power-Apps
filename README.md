@@ -23,7 +23,7 @@ The app is an Employee Details Dashboard created using Modern Power Apps, design
 * Role & Age Diversity: Mix of senior roles (Director, Sr. Analyst) and technical roles (Network Administrator, IT Architect), plus a wide age range (34 to 62 years).
 * Data Readiness: System is set to handle hundreds of records — good for medium to large teams.
 
-### Video
-[![Watch the demo](https://github.com/kiru37/Power-Apps/blob/main/Power%20Apps%20image.jpg?raw=true)](https://github.com/kiru37/Power-Apps/blob/main/Power%20Apps%20Video.mp4)
+### Preview
+[![▶️ Preview](https://github.com/kiru37/Power-Apps/blob/main/Power%20Apps%20image.jpg?raw=true)](https://github.com/kiru37/Power-Apps/blob/main/Power%20Apps%20Video.mp4)
 
 </details>
